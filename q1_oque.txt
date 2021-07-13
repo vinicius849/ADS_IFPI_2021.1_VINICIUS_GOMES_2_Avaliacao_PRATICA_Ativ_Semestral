@@ -1,0 +1,24 @@
+Instituto Federal do Piauí - IFPI
+Curso de Análise e Desenvolvimento de Sistemas - ADS
+Professor: Rogério da Silva
+Disciplina: Algoritmos & Programação
+Aluno: Vinícius Gomes Araújo Costa    Matrícula: 20191ADS0274   Turno: Tarde
+
+1)
+a) É uma linha de raciocínio do desenvolvedor de software, baseada em analisar a situação-problema, extrair informações
+ou dados de questões e dividir em tarefas seguidas passo-a-passo para um determinado fim: solucionar problemas complexos em
+problemas fáceis. Ele é trabalhado durante toda a nossa vida de programador de softwares.
+b) O Algoritmo seria uma sequência ordenada de expressões, operações lógico-aritméticas envolvidas em um processo inteligente
+de resolução de problemas. É uma matéria da disciplina de ADS que trabalha o pensamento computacional dos alunos em conjunto
+com os professores em propor estratégias conclusivas e interativas de um programa. Com ele, submetemos os códigos através de 
+uma linguagem de programação discutida neste período, no caso, foi Java Script. Ou seja, a melhor linguagem de programação 
+deste período 2021.1.
+c) É o simples fato de fazer uma depuração de código(o "correr dos olhos") em Java Script. Programar é estabelecer padrões
+ou métodos para resolver problemas. A depuração gera emoções, nem sempre felizes para você, programador, poderás ficar frustrado
+ou zangado quando nos deparamos com deteminado estudo de caso ou situação. Ela serve exatamente para a função de exercício
+de fixação, prática de tarefas que aprimoram nosso raciocínio computacional/intelectual. Escopo da grade curricular do curso de ADS.
+d) Modularização com uso de funções seria reutilizar o código submetido, reuso, facilidade de manuseio de linhas para deixar
+uma área separada em partes e dar um nome para ela, você usa variáveis como var(tamém chamado de vaga porque armazena quantidades),
+let(variável para strings) e const(variável acompanhada de Number ou input-indica constante) para chamar as funções em um fluxo 
+principal chamado main. Em relação das atividades realizadas por mim, Vinícius, das listas do Profº Fábio Gomes, importei a biblioteca
+'prompt-sync' para facilitar a resolução de problemas.
